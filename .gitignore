@@ -1,5 +1,5 @@
-cache
-data
+cache/
+data/
 notes_taking.txt
-.DS_store
-__pycache__
+.DS_Store
+__pycache__/
