@@ -1,3 +1,5 @@
 cache
 data
 notes_taking.txt
+.DS_store
+__pycache__
