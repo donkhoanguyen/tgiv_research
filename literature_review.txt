@@ -1,0 +1,4 @@
+Source:  
+- Equirec2Perspec: https://github.com/fuenwang/Equirec2Perspec/tree/master
+- Original GVI repo: https://github.com/mittrees/Treepedia_Public/tree/master
+- Sampling techniques: https://github.com/Spatial-Data-Science-and-GEO-AI-Lab/StreetView-NatureVisibility 
