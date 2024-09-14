@@ -16,3 +16,4 @@ odc-stac
 matplotlib
 numpy
 folium
+pymeanshift
